@@ -1,0 +1,8 @@
+.informações {
+    margin: 4% 40px;
+    display: none;
+}
+
+.descricoes #terra:target{
+    display: block;
+}
