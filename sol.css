@@ -1,8 +1,13 @@
-.informações {
-    margin: 4% 40px;
-    display: none;
+h3.texto{
+    font-size: 18px;
+    color: black;
+    font-family: "Kode Mono", monospace;
 }
-
-.descricoes #terra:target{
-    display: block;
+h2.texto{
+    font-size: 30px;
+    color: black;
+    font-family: "Kode Mono", monospace;
+}
+div id.sol{
+    font-size: 20px;
 }
