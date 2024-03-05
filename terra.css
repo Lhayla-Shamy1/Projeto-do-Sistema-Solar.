@@ -1,0 +1,14 @@
+h3.texto{
+    font-size: 17px;
+    color: white;
+    font-family: "Kode Mono", monospace;
+}
+h2.texto{
+    font-size: 30px;
+    color: white;
+    font-family: "Kode Mono", monospace;
+}
+body{
+    background-color: #000;
+    height: 100vh;
+}
